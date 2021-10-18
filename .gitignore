@@ -1,1 +1,5 @@
 *.properties
+target/
+build/
+idea/
+*.iml
